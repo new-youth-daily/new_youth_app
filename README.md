@@ -1,6 +1,8 @@
-# youth
+# 新青年APP - 开源言论平台
 
-A new Flutter project.
+新青年APP，适用于安卓、iOS、Web。
+
+使用 Flutter 开发跨端 APP。
 
 ## Getting Started
 
