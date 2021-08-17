@@ -2,17 +2,23 @@
 
 新青年APP，适用于安卓、iOS、Web。
 
-使用 Flutter 开发跨端 APP。
+新青年，名字来源于二十世纪陈独秀先生的新青年报，旨在创建一个言论自由的平台。
 
-## Getting Started
+## 言论自由
 
-This project is a starting point for a Flutter application.
+言论自由，一种基本人权，指公民可以按照个人的意愿表达意见和想法的法定政治权利，
+这些意见表达不用受任何人“事前”的审查及限制，也无需担心受到政府或他人报复。
+有时也被称为意涵更广泛的表达自由。它通常被理解为充分表达意见的自由，
+当中包括以任何方式寻找、接收及发放传递资讯或者思想的行为。
 
-A few resources to get you started if this is your first Flutter project:
+## 安装方式
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+敬请期待
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 技术实现
+
+前端使用 Flutter 开发跨端 APP，后端使用 Golang 开发，
+
+## 参与开源
+
+
